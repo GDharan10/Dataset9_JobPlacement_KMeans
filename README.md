@@ -21,8 +21,6 @@ The "Job Placement" dataset contains information about job placements. Each entr
 ## Repository Structure
 - `job_placement.csv`: Contains the raw data file used in the analysis.
 - `Job_placement_dataset.ipynb`: Jupyter notebook containing the code for data exploration, preprocessing, analysis, and visualization.
-- `results/`: Output files, visualizations, and summaries generated during the analysis.
-- `README.md`: This file, providing an overview of the project.
 
 ## Dependencies
 - Python
